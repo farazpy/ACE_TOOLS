@@ -20,7 +20,7 @@ red='\e[1;31m'
 figlet TUAN B4DUT  | lolcat
 
 echo -b "_____________________________________________________________" | lolcat
-echo -b "TYPE      : ACE TOOLS BY INSTANDE  $green " |lolcat
+echo -b "TYPE      : ACE TOOLS BY INSTANDER  $green " |lolcat
 echo -b "VERSION   : V2.6 " | lolcat
 echo -b "TOTALS    : 311 TOOLS " | lolcat
 echo -b "AUTHOR    : FARAZ KHAN $green " |lolcat
@@ -38,13 +38,13 @@ sleep 1
 trap ctrl_c INT
 ctrl_c() {
 clear
-echo -b $green"[#]> THE THIRD EYE DEVELOPERS " |lolcat
+echo -b $green"[#]> GREETING FROM I.D.C " |lolcat
 echo -b $green"[#]> Thanks For Using Our Ace Tools" |lolcat
 sleep 1
 echo -b $green"[#]> Dont forget to report issues on Github" |lolcat
 
-echo -b $green"[#]> See you Again  :)..." |lolcat
-figlet KHAN | lolcat
+echo -b $green"[#]> See you Again Hacker :)" |lolcat
+figlet FARAZPY | lolcat
 sleep 1
 exit
 }
@@ -2979,7 +2979,7 @@ echo -e "${y} SUDAH TERINSTALL.."
 echo "TUAN B4DUT ON YOUR SYSTEM" | lolcat
 echo "INDONESIAN TERMUX ASSOCIATION" | lolcat
 echo "SEMUA TOOLS YANG KALIAN INSTALL ADA DI DIRECTORY TOOLS GUA" | lolcat
-figlet TUAN B4DUT | lolcat
+figlet FARAZPY | lolcat
 exit
 ;;
 
