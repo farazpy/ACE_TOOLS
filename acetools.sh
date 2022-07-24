@@ -17,7 +17,7 @@ blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
 
-figlet TUAN B4DUT  | lolcat
+figlet FARAZPY  | lolcat
 
 echo -b "_____________________________________________________________" | lolcat
 echo -b "TYPE      : ACE TOOLS BY INSTANDER  $green " |lolcat
