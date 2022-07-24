@@ -10,7 +10,7 @@ Penetration Testing Tools
 Hacking Tools
 Spying Tools ] 
 
-### Special Thanks  :fa-heart:
+### Special Thanks 
 - Faraz Khan
 - Saara Khan
 - Kalyani Patil
