@@ -20,14 +20,14 @@ red='\e[1;31m'
 figlet TUAN B4DUT  | lolcat
 
 echo -b "_____________________________________________________________" | lolcat
-echo -b "TYPE      : TOOLS INSTALLER $green " |lolcat
-echo -b "VERSION   : V.3 " | lolcat
+echo -b "TYPE      : ACE TOOLS BY INSTANDE  $green " |lolcat
+echo -b "VERSION   : V2.6 " | lolcat
 echo -b "TOTALS    : 311 TOOLS " | lolcat
-echo -b "AUTHOR    : TUAN B4DUT $green " |lolcat
-echo -b "ASSOCIATE : INDONESIAN TERMUX ASSOCIATION $green " |lolcat
-echo -b "ASSOCIATE : INDONESIAN TERMUX TUTORIAL $green " |lolcat
-echo -b "ASSOCIATE : INDONESIAN DARK TERMUX ASSOCIATE $green " |lolcat
-echo -b "NOTES     : JELAJAHI SETIAP TOOLS DENGAN BIJAK " | lolcat
+echo -b "AUTHOR    : FARAZ KHAN $green " |lolcat
+echo -b "ASSOCIATE : INDIAN TERMUX ASSOCIATION $green " |lolcat
+echo -b "ASSOCIATE : INDIAN TERMUX TUTORIAL $green " |lolcat
+echo -b "ASSOCIATE : THIRD EYE DARK TERMUX ASSOCIATE $green " |lolcat
+echo -b "NOTES     : TOOLS HAVE COPYRIGHT TO OWNERS " | lolcat
 echo -b "_____________________________________________________________" | lolcat
 
 sleep 1
@@ -38,13 +38,13 @@ sleep 1
 trap ctrl_c INT
 ctrl_c() {
 clear
-echo -b $green"[#]> TOOLS YANG KALIAN INSTALL ADA DI DIRECTORY TOOLS GUA " |lolcat
-echo -b $green"[#]> Thanks For Using My Tools" |lolcat
+echo -b $green"[#]> THE THIRD EYE DEVELOPERS " |lolcat
+echo -b $green"[#]> Thanks For Using Our Ace Tools" |lolcat
 sleep 1
-echo -b $green"[#]> TUAN B4DUT On Your System" |lolcat
+echo -b $green"[#]> Dont forget to report issues on Github" |lolcat
 
-echo -b $green"[#]> See you Again SCRIPTKIDDIES😎 :)..." |lolcat
-figlet TUAN B4DUT | lolcat
+echo -b $green"[#]> See you Again  :)..." |lolcat
+figlet KHAN | lolcat
 sleep 1
 exit
 }
@@ -58,7 +58,7 @@ echo ""
 echo ""
 
 echo -e "######################################" | lolcat
-echo -e "#SILAHKAN TUNGGU DAN LIHAT LIST TOOLS#" | lolcat
+echo -e "#THIRD EYE ACE TOOLS INSTALLER#" | lolcat
 echo -e "######################################" | lolcat
 
 echo ""
